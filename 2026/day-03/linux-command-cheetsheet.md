@@ -19,8 +19,8 @@
 ## Linux file system commands
 - pwd : shows current directory
 - ls : lists file /folder
-- ls -l : detailed file information
-- ls -la : shown hidden files too
+- ls -l : detailed file information            
+- ls -la : shown hidden files too                 
 - cd : change directory
 - mkdir : create a directory
 - touch : create an empty file
@@ -35,4 +35,29 @@
 - find : search for file
 - du : shown directory / file size
 - df : shown disk space
-- 
+- file : identity file system
+- stat : show detailed file
+
+## easy way to remember
+ - Navigate : pwd ,ls,cd
+ - create : mkdir,touch
+ - copy/move : cp , mv
+ - Delete : rm
+ - read : cat,less,head,tail
+ - search : find
+ - storage : df,du
+ - Details : start,file
+
+  ## network troubleshooting commands
+  - ip addr : shown ip address
+  - ip route : shown routing table
+  - ping : check network connectivity
+  - traceroute : path to destination
+  - ss : shown network connection
+  - curl : Test HTTP
+  - nslookup : check DNS resolution
+  - dig : details DNS information
+  - hostname : shown system hostname
+  - ip link : shown network interface
+ 
+
