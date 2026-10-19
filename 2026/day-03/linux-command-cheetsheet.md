@@ -1,4 +1,4 @@
-#  linux command pracice 
+#  linux command practice 
 
 ## process mangement commands
 - ps  : shows running process
